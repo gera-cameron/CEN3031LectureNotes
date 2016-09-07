@@ -11,14 +11,14 @@ Diagram of customer interaction with system analyst that leads to system archite
   - Requirements document
 
 ##Design Process
-[diagram]
+![alt text][DesignProcess]
 
 ##Implementation & Testing
 Coming back to implementation later
 
 ###Testing
-[diagram]
-[diagram]
+![alt text][Testing]
+![alt text][PlanTesting]
 
 ##Dealing with changing requirements
 ###Due to uncertainty
@@ -31,3 +31,7 @@ When what the system is is poorly defined/not well understood...
   - Tends to disregard important things like reliability & security
 ####Remember
   > Prototypes are meant to be disregarded! They are not meant to be the foundation for production software!
+
+[DesignProcess]:https://github.com/gera-cameron/CEN3031LectureNotes/blob/master/Charts/DesignProcess.png
+[Testing]:https://github.com/gera-cameron/CEN3031LectureNotes/blob/master/Charts/Testing.png
+[PlanTesting]:https://github.com/gera-cameron/CEN3031LectureNotes/blob/master/Charts/PlanTesting.png

@@ -71,4 +71,6 @@ Cons:
   - To upgrade or not to upgrade, that is the question.
 
 
-//Add Charts
+[WaterfallChart]:https://github.com/gera-cameron/CEN3031LectureNotes/blob/master/Charts/Waterfall.png
+[IncrementalChart]:https://github.com/gera-cameron/CEN3031LectureNotes/blob/master/Charts/Incremental.png
+[IntegrationChart]:https://github.com/gera-cameron/CEN3031LectureNotes/blob/master/Charts/Integration&Config.png
